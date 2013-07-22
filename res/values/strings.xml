@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Parallel Tasks</string>
+
+    <string name="forward">Forward</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+
+    <string name="switchToTaskA">Switch to task A</string>
+    <string name="switchToTaskB">Switch to task B</string>
+
+    <string name="a">A</string>
+    <string name="b">B</string>
+
+    <string name="aAffinity">com.theelfismike.parallelpaths.a</string>
+    <string name="bAffinity">com.theelfismike.parallelpaths.b</string>
+    <string name="homeAffinity">com.theelfismike.parallelpaths.home</string>
+</resources>

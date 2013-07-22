@@ -5,6 +5,10 @@
 # files for the dex VM
 *.dex
 
+# files for Intellij/AS
+*.iml
+.idea
+
 # Java class files
 *.class
 
